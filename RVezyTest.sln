@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVezyTest", "RVezyTest\RVezyTest.csproj", "{7503B7DD-1F05-4777-A231-FB57C9C41D9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVezyTest.tests", "RVezyTest.tests\RVezyTest.tests.csproj", "{AF4FF0DE-7B15-4365-B287-D3B420FE67E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7503B7DD-1F05-4777-A231-FB57C9C41D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7503B7DD-1F05-4777-A231-FB57C9C41D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7503B7DD-1F05-4777-A231-FB57C9C41D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4FF0DE-7B15-4365-B287-D3B420FE67E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4FF0DE-7B15-4365-B287-D3B420FE67E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4FF0DE-7B15-4365-B287-D3B420FE67E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4FF0DE-7B15-4365-B287-D3B420FE67E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
